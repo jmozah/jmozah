@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Mohamed Zahoor and I'm a code for a living. I am involved in Blockchain for quite sometime now. 
+My name is Mohamed Zahoor and I code for food. 
 
 <a href="https://discord.gg/306415870010327041">
   <img align="left" alt="Zahoor's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
